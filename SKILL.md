@@ -1,6 +1,6 @@
 ---
 name: gepeto
-description: Agent builder and refactorer for Claude Code. TRIGGER: only when the user explicitly invokes /gepeto. Do NOT auto-invoke. Detects operating mode from context — create, refactor/review/improve/optimize, package, or validate.
+description: "Agent builder and refactorer for Claude Code. TRIGGER: only when the user explicitly invokes /gepeto. Do NOT auto-invoke. Detects operating mode from context — create, refactor/review/improve/optimize, package, or validate."
 ---
 
 # gepeto — agent builder
